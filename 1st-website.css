@@ -1,0 +1,33 @@
+#main{
+  background-color: #e8e7e3;
+  border-radius: 15px;
+}
+#header{
+  text-align: center;
+}
+#img-div{
+  border-radius: 10px;
+  text-align: center;
+  background-color: white;
+  margin: 30px;
+}
+#img-caption{
+  color: #a6a1a1;
+}
+#info-title{
+  text-align: center;
+}
+#tribute-info{
+   width: 50%;    
+  position: relative;
+  right: auto;
+  left: auto;
+  margin: auto;
+  font-size: 10vw:
+}
+#image{
+  max-width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
